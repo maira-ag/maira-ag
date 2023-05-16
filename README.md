@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
   <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+  <img src= "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src= "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img src= "https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff">
  </div>
@@ -29,12 +29,15 @@
   <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src= "https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
   </div>
  
- ## 🌐 Veja meus projetos
+ ## 🌐 Sociais
  <div style="display: inline_block"><br>
   <a href="https://www.behance.net/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   <a href="https://github.com/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.last.fm/pt/user/N4VYx" target="_blank"</a> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
+  <a href="https://open.spotify.com/user/maira_leticia" target="_blank"</a> <img src= "https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white">
  </div>
  
  ## 💰 Você pode apoiar o meus projetos doando
