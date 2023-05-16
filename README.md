@@ -6,9 +6,9 @@
 - 🎨 Design <br>
 - 💻 Back-End e Front-End <br><br>
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maira-ag&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=true&card_width=495px&text_bold=false&border_radius=4.5"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maira-ag&theme=discord_old_blurple&hide_border=true&border_radius=4.5&"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-ag&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=800&border_radius=4.5"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=maira-ag&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=true&card_width=495px&text_bold=false&border_radius=4.5"/>
+  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=maira-ag&theme=discord_old_blurple&hide_border=true&border_radius=4.5&"/>
+  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-ag&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=810&border_radius=4.5"/>
 </div>
 
 ## 📖 Aprendendo
