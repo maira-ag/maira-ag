@@ -6,9 +6,9 @@
 - 🎨 Design <br>
 - 💻 Back-End e Front-End <br><br>
 <div>
-  <img height="160em" widht="320em" src="https://github-readme-stats.vercel.app/api?username=maira-ag&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=true&card_width=495px&text_bold=false"/>
-  <img height="160em" widht="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-ag&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=250"/>
-  <img height="160em" widht="320em" src="https://github-readme-streak-stats.herokuapp.com/?user=maira-ag&theme=discord_old_blurple&hide_border=true"/>
+  <img height="160em" widht="320em" src="https://github-readme-stats.vercel.app/api?username=maira-ag&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=true&card_width=495px&text_bold=false&border_radius=4.5"/>
+  <img height="160em" widht="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-ag&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=250&border_radius=4.5"/>
+  <img height="160em" widht="320em" src="https://github-readme-streak-stats.herokuapp.com/?user=maira-ag&theme=discord_old_blurple&hide_border=true&border_radius=4.5"/>
 </div>
 
 ## 📖 Aprendendo
@@ -22,7 +22,7 @@
  
  ## 🔧 Ferramentas
  <div style="display: inline_block"><br>
-  <img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src= "https://img.shields.io/badge/Figma-4153a3?style=for-the-badge&logo=figma&logoColor=white">
   <img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -37,7 +37,7 @@
  
  ## 💰 Você pode apoiar o meus projetos doando
  <div style="display: inline_block"><br>
-  <a href="https://www.buymeacoffee.com/mairaaguiar" target="_blank"</a> <img src= "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black">
+  <a href="https://www.buymeacoffee.com/mairaaguiar" target="_blank"</a> <img src= "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-4153a3.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black">
  </div>
  
   
