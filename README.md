@@ -1,4 +1,4 @@
-# 🟣 Olá, meu nome é Maíra!
+#  Olá, meu nome é Maíra!
 
 - 📓 2º ano do Ensino Médio Técnico em Desenvolvimento e Análise de Sistemas <br>
 - 🏫 Escola S SesiSenai - São José-SC <br>
