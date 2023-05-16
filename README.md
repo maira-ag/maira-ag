@@ -1,10 +1,10 @@
-# Olá, meu nome é Maíra!
+# 🟣 Olá, meu nome é Maíra!
 
-📓 2º ano do Ensino Médio Técnico em Desenvolvimento e Análise de Sistemas <br>
-🏫 Escola S SesiSenai - São José-SC <br>
+- 📓 2º ano do Ensino Médio Técnico em Desenvolvimento e Análise de Sistemas <br>
+- 🏫 Escola S SesiSenai - São José-SC <br>
 ### Interesses
-🎨 Design <br>
-💻 Back-End e Front-End <br><br>
+- 🎨 Design <br>
+- 💻 Back-End e Front-End <br><br>
 <div>
   <img height="160em" widht="320em" src="https://github-readme-stats.vercel.app/api?username=maira-ag&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=true&card_width=495px&text_bold=false"/>
   <img height="160em" widht="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-ag&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=250"/>
