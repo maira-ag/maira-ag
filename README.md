@@ -43,6 +43,7 @@
  ## 💰 Você pode apoiar o meus projetos doando
  <div style="display: inline_block"><br>
   <a href="https://www.buymeacoffee.com/mairaaguiar" target="_blank"</a> <img src= "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-4153a3.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black">
+    <a href="https://ko-fi.com/mairaaguiar#" target="_blank"</a> <img src= "https://img.shields.io/badge/Kofi-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white">
  </div> <br><br>
  
  [![](https://visitcount.itsvg.in/api?id=maduveridiano&icon=2&color=6)](https://visitcount.itsvg.in)
