@@ -38,13 +38,9 @@
   <a href="https://www.behance.net/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   <a href="https://github.com/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://www.last.fm/pt/user/N4VYx" target="_blank"</a> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
- </div>
- 
- ## 💰 Você pode apoiar o meus projetos doando
- <div style="display: inline_block"><br>
-  <a href="https://www.buymeacoffee.com/mairaaguiar" target="_blank"</a> <img src= "https://img.shields.io/badge/Buy%20Me%20A%20Coffee-4153a3.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black">
-    <a href="https://ko-fi.com/mairaaguiar#" target="_blank"</a> <img src= "https://img.shields.io/badge/Kofi-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white">
- </div> <br><br>
+  <a href="https://ko-fi.com/mairaaguiar#" target="_blank"</a> <img src= "https://img.shields.io/badge/Kofi-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white">
+  </div>
+<br>
  
  [![](https://visitcount.itsvg.in/api?id=maduveridiano&icon=2&color=6)](https://visitcount.itsvg.in)
  
