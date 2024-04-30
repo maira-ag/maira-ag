@@ -11,7 +11,7 @@
 </div>
 
 ## 📖 Aprendendo
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src= "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -21,7 +21,7 @@
  </div>
  
  ## 🔧 Ferramentas
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
   <img src= "https://img.shields.io/badge/Figma-4153a3?style=for-the-badge&logo=figma&logoColor=white">
   <img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -31,7 +31,7 @@
   </div>
  
  ## 🌐 Sociais
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
   <a href="https://www.behance.net/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   <a href="https://github.com/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://www.last.fm/pt/user/N4VYx" target="_blank"</a> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
