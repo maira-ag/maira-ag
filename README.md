@@ -34,6 +34,7 @@
  <div style="display: inline_block">
   <a href="https://www.behance.net/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
   <a href="https://github.com/maira-ag" target="_blank"</a> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://www.instagram.com/n4vy.graphics/" target="_blank"</a> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   <a href="https://www.last.fm/pt/user/N4VYx" target="_blank"</a> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
   <a href="https://ko-fi.com/mairaaguiar#" target="_blank"</a> <img src= "https://img.shields.io/badge/Kofi-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white">
   </div>
