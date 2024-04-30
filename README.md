@@ -1,7 +1,7 @@
 #  🐱‍💻 Olá, meu nome é Maíra!
 
-- 📓 2º ano do Ensino Médio - Técnico em Análise e Desenvolvimento de Sistemas <br>
-- 🏫 Escola S SesiSenai - São José-SC <br>
+- 📓 Ensino Médio - Técnico em Análise e Desenvolvimento de Sistemas <br>
+- 🏫 Escola Sesi - Senai - São José-SC <br>
 ###   Interesses
 - 🎨 Design <br>
 - 💻 Back-End e Front-End <br>
