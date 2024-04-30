@@ -4,9 +4,8 @@
 - 🏫 Escola S SesiSenai - São José-SC <br>
 ###   Interesses
 - 🎨 Design <br>
-- 💻 Back-End e Front-End <br><br>
+- 💻 Back-End e Front-End <br>
 ## 
-
 <div>
   <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-ag&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=810&border_radius=4.5"/>
 </div>
