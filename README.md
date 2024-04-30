@@ -39,6 +39,9 @@
   <a href="https://ko-fi.com/mairaaguiar#" target="_blank"</a> <img src= "https://img.shields.io/badge/Kofi-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white">
   </div>
 <br>
+
+#### 🎵 Ouvindo...
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=maira_leticia&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a476ea&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
  [![](https://visitcount.itsvg.in/api?id=maduveridiano&icon=2&color=6)](https://visitcount.itsvg.in)
  
