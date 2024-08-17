@@ -36,7 +36,7 @@
   </div>
 <br>
 
-#### 🎵 Ouvindo...
+### 🎵 Ouvindo...
 ![spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=maira_leticia)
  
  [![](https://visitcount.itsvg.in/api?id=maduveridiano&icon=2&color=6)](https://visitcount.itsvg.in)
